@@ -1,4 +1,4 @@
-name: "Terraform - Stagng"
+name: "Terraform - Staging"
 # https://gaunacode.com/deploying-terraform-at-scale-with-github-actions
 on:
   push:
